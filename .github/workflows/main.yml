@@ -29,4 +29,4 @@ jobs:
           CHAOXING_USERNAME: ${{ secrets.CHAOXING_USERNAME }}
           CHAOXING_PASSWORD: ${{ secrets.CHAOXING_PASSWORD }}
           CHAOXING_COURSE_LIST: ${{ secrets.CHAOXING_COURSE_LIST }}
-        run: python main.py -u 19162561864 -p 2008NFCnb666 -l 268658468
+        run: python main.py -u 19162561864 -p 2008NFCnb666 -l 2268330773
